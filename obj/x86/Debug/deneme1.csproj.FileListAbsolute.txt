@@ -1,0 +1,160 @@
+C:\Documents and Settings\ahmett\Desktop\udp receiver\deneme1\deneme1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ahmett\Desktop\udp receiver\deneme1\deneme1\obj\x86\Debug\deneme1.Form1.resources
+C:\Documents and Settings\ahmett\Desktop\udp receiver\deneme1\deneme1\obj\x86\Debug\deneme1.Properties.Resources.resources
+C:\Documents and Settings\ahmett\Desktop\udp receiver\deneme1\deneme1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ahmett\Desktop\udp receiver\deneme1\deneme1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ahmett\Desktop\udp receiver\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Documents and Settings\ahmett\Desktop\udp receiver\deneme1\deneme1\bin\Debug\deneme1.pdb
+C:\Documents and Settings\ahmett\Desktop\udp receiver\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+C:\Documents and Settings\ahmett\Desktop\udp receiver\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+C:\Users\user\Desktop\udp receiver\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+C:\Users\user\Desktop\udp receiver\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Users\user\Desktop\udp receiver\deneme1\deneme1\bin\Debug\deneme1.pdb
+C:\Users\user\Desktop\udp receiver\deneme1\deneme1\obj\x86\Debug\deneme1.Form1.resources
+C:\Users\user\Desktop\udp receiver\deneme1\deneme1\obj\x86\Debug\deneme1.Properties.Resources.resources
+C:\Users\user\Desktop\udp receiver\deneme1\deneme1\obj\x86\Debug\deneme1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\udp receiver\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+C:\Documents and Settings\ahmett\Desktop\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+C:\Documents and Settings\ahmett\Desktop\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+C:\Documents and Settings\ahmett\Desktop\deneme1\deneme1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ahmett\Desktop\deneme1\deneme1\obj\x86\Debug\deneme1.Form1.resources
+C:\Documents and Settings\ahmett\Desktop\deneme1\deneme1\obj\x86\Debug\deneme1.Properties.Resources.resources
+C:\Documents and Settings\ahmett\Desktop\deneme1\deneme1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ahmett\Desktop\deneme1\deneme1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ahmett\Desktop\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Documents and Settings\ahmett\Desktop\deneme1\deneme1\bin\Debug\deneme1.pdb
+C:\Documents and Settings\ahmett\Desktop\c sharp uygulamaları\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+C:\Documents and Settings\ahmett\Desktop\c sharp uygulamaları\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+C:\Documents and Settings\ahmett\Desktop\c sharp uygulamaları\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Documents and Settings\ahmett\Desktop\c sharp uygulamaları\deneme1\deneme1\bin\Debug\deneme1.pdb
+C:\Documents and Settings\ahmett\Desktop\c sharp uygulamaları\deneme1\deneme1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ahmett\Desktop\c sharp uygulamaları\deneme1\deneme1\obj\x86\Debug\deneme1.Form1.resources
+C:\Documents and Settings\ahmett\Desktop\c sharp uygulamaları\deneme1\deneme1\obj\x86\Debug\deneme1.Properties.Resources.resources
+C:\Documents and Settings\ahmett\Desktop\c sharp uygulamaları\deneme1\deneme1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ahmett\Desktop\c sharp uygulamaları\deneme1\deneme1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+C:\Users\user\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+C:\Users\user\Desktop\pc programı\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Users\user\Desktop\pc programı\deneme1\deneme1\bin\Debug\deneme1.pdb
+C:\Users\user\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.Form1.resources
+C:\Users\user\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.Properties.Resources.resources
+C:\Users\user\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\pc programı\deneme1\deneme1\bin\Debug\AForge.dll
+C:\Users\user\Desktop\pc programı\deneme1\deneme1\bin\Debug\AForge.Math.dll
+C:\Users\user\Desktop\pc programı\deneme1\deneme1\bin\Debug\AForge.xml
+C:\Users\user\Desktop\pc programı\deneme1\deneme1\bin\Debug\AForge.Math.xml
+C:\Documents and Settings\ahmet1\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+C:\Documents and Settings\ahmet1\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+C:\Documents and Settings\ahmet1\Desktop\pc programı\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Documents and Settings\ahmet1\Desktop\pc programı\deneme1\deneme1\bin\Debug\deneme1.pdb
+C:\Documents and Settings\ahmet1\Desktop\pc programı\deneme1\deneme1\bin\Debug\AForge.xml
+C:\Documents and Settings\ahmet1\Desktop\pc programı\deneme1\deneme1\bin\Debug\AForge.Math.xml
+C:\Documents and Settings\ahmet1\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ahmet1\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.Form1.resources
+C:\Documents and Settings\ahmet1\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.Properties.Resources.resources
+C:\Documents and Settings\ahmet1\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ahmet1\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\cappadocia çalışmalar\DSP ccs\ADC receiver\DSP\2014.6.4 son\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+C:\Users\user\Desktop\cappadocia çalışmalar\DSP ccs\ADC receiver\DSP\2014.6.4 son\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+C:\Users\user\Desktop\cappadocia çalışmalar\DSP ccs\ADC receiver\DSP\2014.6.4 son\pc programı\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Users\user\Desktop\cappadocia çalışmalar\DSP ccs\ADC receiver\DSP\2014.6.4 son\pc programı\deneme1\deneme1\bin\Debug\deneme1.pdb
+C:\Users\user\Desktop\cappadocia çalışmalar\DSP ccs\ADC receiver\DSP\2014.6.4 son\pc programı\deneme1\deneme1\bin\Debug\AForge.dll
+C:\Users\user\Desktop\cappadocia çalışmalar\DSP ccs\ADC receiver\DSP\2014.6.4 son\pc programı\deneme1\deneme1\bin\Debug\AForge.Math.dll
+C:\Users\user\Desktop\cappadocia çalışmalar\DSP ccs\ADC receiver\DSP\2014.6.4 son\pc programı\deneme1\deneme1\bin\Debug\AForge.xml
+C:\Users\user\Desktop\cappadocia çalışmalar\DSP ccs\ADC receiver\DSP\2014.6.4 son\pc programı\deneme1\deneme1\bin\Debug\AForge.Math.xml
+C:\Users\user\Desktop\cappadocia çalışmalar\DSP ccs\ADC receiver\DSP\2014.6.4 son\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\cappadocia çalışmalar\DSP ccs\ADC receiver\DSP\2014.6.4 son\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.Form1.resources
+C:\Users\user\Desktop\cappadocia çalışmalar\DSP ccs\ADC receiver\DSP\2014.6.4 son\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.Properties.Resources.resources
+C:\Users\user\Desktop\cappadocia çalışmalar\DSP ccs\ADC receiver\DSP\2014.6.4 son\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+C:\Documents and Settings\Admin\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+C:\Documents and Settings\Admin\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.Form1.resources
+C:\Documents and Settings\Admin\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\deneme1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Desktop\pc programı\deneme1\deneme1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Desktop\pc programı\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Documents and Settings\Admin\Desktop\pc programı\deneme1\deneme1\bin\Debug\deneme1.pdb
+C:\Documents and Settings\Admin\Desktop\pc programı\deneme1\deneme1\bin\Debug\AForge.xml
+C:\Documents and Settings\Admin\Desktop\pc programı\deneme1\deneme1\bin\Debug\AForge.Math.xml
+C:\Users\user\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+C:\Users\user\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+C:\Users\user\Desktop\pc programı pb\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Users\user\Desktop\pc programı pb\deneme1\deneme1\bin\Debug\deneme1.pdb
+C:\Users\user\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.Form1.resources
+C:\Users\user\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.Properties.Resources.resources
+C:\Users\user\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+C:\Documents and Settings\Admin\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+C:\Documents and Settings\Admin\Desktop\pc programı pb\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Documents and Settings\Admin\Desktop\pc programı pb\deneme1\deneme1\bin\Debug\deneme1.pdb
+C:\Documents and Settings\Admin\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.Form1.resources
+C:\Documents and Settings\Admin\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Desktop\pc programı pb\deneme1\deneme1\bin\Debug\LibUsbDotNet.dll
+C:\Documents and Settings\Admin\Desktop\pc programı pb\deneme1\deneme1\bin\Debug\LibUsbDotNet.xml
+C:\Users\user\Desktop\pc programı pb\deneme1\deneme1\bin\Debug\LibUsbDotNet.dll
+C:\Users\user\Desktop\pc programı pb\deneme1\deneme1\bin\Debug\LibUsbDotNet.xml
+C:\Users\user\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\pc programı pb\deneme1\deneme1\bin\Debug\deneme1.exe.config
+C:\Users\Ahmet\Desktop\pc programı pb\deneme1\deneme1\bin\Debug\deneme1.exe.config
+C:\Users\Ahmet\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+C:\Users\Ahmet\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+C:\Users\Ahmet\Desktop\pc programı pb\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Users\Ahmet\Desktop\pc programı pb\deneme1\deneme1\bin\Debug\deneme1.pdb
+C:\Users\Ahmet\Desktop\pc programı pb\deneme1\deneme1\bin\Debug\LibUsbDotNet.xml
+C:\Users\Ahmet\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.Form1.resources
+C:\Users\Ahmet\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\pc programı pb\deneme1\deneme1\obj\x86\Debug\deneme1.csproj.GenerateResource.Cache
+C:\Users\PCX\Desktop\ultrasonar\pc programı pb1\deneme1\deneme1\bin\Debug\deneme1.exe.config
+C:\Users\PCX\Desktop\ultrasonar\pc programı pb1\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+C:\Users\PCX\Desktop\ultrasonar\pc programı pb1\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+C:\Users\PCX\Desktop\ultrasonar\pc programı pb1\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Users\PCX\Desktop\ultrasonar\pc programı pb1\deneme1\deneme1\bin\Debug\deneme1.pdb
+C:\Users\PCX\Desktop\ultrasonar\pc programı pb1\deneme1\deneme1\bin\Debug\LibUsbDotNet.xml
+C:\Users\PCX\Desktop\ultrasonar\pc programı pb1\deneme1\deneme1\obj\x86\Debug\deneme1.csprojResolveAssemblyReference.cache
+C:\Users\PCX\Desktop\ultrasonar\pc programı pb1\deneme1\deneme1\obj\x86\Debug\deneme1.Form1.resources
+C:\Users\PCX\Desktop\ultrasonar\pc programı pb1\deneme1\deneme1\obj\x86\Debug\deneme1.Properties.Resources.resources
+C:\Users\PCX\Desktop\ultrasonar\pc programı pb1\deneme1\deneme1\obj\x86\Debug\deneme1.csproj.GenerateResource.Cache
+C:\Users\PCX\Desktop\ultrasonar\pc programı pb1\deneme1\deneme1\obj\x86\Debug\deneme1.Form2.resources
+D:\msüstü\ultrasonar\pc programı pb1\deneme1\deneme1\bin\Debug\deneme1.exe.config
+D:\msüstü\ultrasonar\pc programı pb1\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+D:\msüstü\ultrasonar\pc programı pb1\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+E:\pc programı pb1\deneme1\deneme1\bin\Debug\deneme1.exe.config
+E:\pc programı pb1\deneme1\deneme1\obj\x86\Debug\deneme1.exe
+E:\pc programı pb1\deneme1\deneme1\obj\x86\Debug\deneme1.pdb
+D:\WIN\Desktop\MPLAB IDE X\proje\PC UI\deneme1\bin\Debug\deneme1.exe.config
+D:\WIN\Desktop\MPLAB IDE X\proje\PC UI\deneme1\obj\x86\Debug\deneme1.exe
+D:\WIN\Desktop\MPLAB IDE X\proje\PC UI\deneme1\obj\x86\Debug\deneme1.pdb
+D:\WIN\Desktop\MPLAB IDE X\proje\PC UI\deneme1\bin\Debug\deneme1.exe
+D:\WIN\Desktop\MPLAB IDE X\proje\PC UI\deneme1\bin\Debug\deneme1.pdb
+D:\WIN\Desktop\MPLAB IDE X\proje\PC UI\deneme1\obj\x86\Debug\deneme1.csprojResolveAssemblyReference.cache
+D:\WIN\Desktop\MPLAB IDE X\proje\PC UI\deneme1\obj\x86\Debug\deneme1.Form1.resources
+D:\WIN\Desktop\MPLAB IDE X\proje\PC UI\deneme1\obj\x86\Debug\deneme1.Form2.resources
+D:\WIN\Desktop\MPLAB IDE X\proje\PC UI\deneme1\obj\x86\Debug\deneme1.Properties.Resources.resources
+D:\WIN\Desktop\MPLAB IDE X\proje\PC UI\deneme1\obj\x86\Debug\deneme1.csproj.GenerateResource.Cache
+D:\WIN\Desktop\MPLAB IDE X\proje\PC UI\deneme1\bin\Debug\LibUsbDotNet.xml
+C:\Mustafa\PC_UI\deneme1\obj\x86\Debug\deneme1.Form1.resources
+C:\Mustafa\PC_UI\deneme1\obj\x86\Debug\deneme1.Properties.Resources.resources
+C:\Mustafa\PC_UI\deneme1\obj\x86\Debug\deneme1.csproj.GenerateResource.Cache
+C:\Mustafa\PC_UI\deneme1\obj\x86\Debug\deneme1.csproj.CoreCompileInputs.cache
+C:\Mustafa\PC_UI\deneme1\obj\x86\Debug\deneme1.exe
+C:\Mustafa\PC_UI\deneme1\obj\x86\Debug\deneme1.pdb
+C:\Mustafa\PC_UI\deneme1\bin\Debug\deneme1.exe.config
+C:\Mustafa\PC_UI\deneme1\bin\Debug\deneme1.exe
+C:\Mustafa\PC_UI\deneme1\bin\Debug\deneme1.pdb
+C:\Mustafa\PC_UI\deneme1\obj\x86\Debug\deneme1.csprojResolveAssemblyReference.cache
+C:\U\PC_UI\deneme1\bin\Debug\deneme1.exe.config
+C:\U\PC_UI\deneme1\bin\Debug\deneme1.exe
+C:\U\PC_UI\deneme1\bin\Debug\deneme1.pdb
+C:\U\PC_UI\deneme1\obj\x86\Debug\deneme1.csprojResolveAssemblyReference.cache
+C:\U\PC_UI\deneme1\obj\x86\Debug\deneme1.Form1.resources
+C:\U\PC_UI\deneme1\obj\x86\Debug\deneme1.Properties.Resources.resources
+C:\U\PC_UI\deneme1\obj\x86\Debug\deneme1.csproj.GenerateResource.Cache
+C:\U\PC_UI\deneme1\obj\x86\Debug\deneme1.csproj.CoreCompileInputs.cache
+C:\U\PC_UI\deneme1\obj\x86\Debug\deneme1.exe
+C:\U\PC_UI\deneme1\obj\x86\Debug\deneme1.pdb
